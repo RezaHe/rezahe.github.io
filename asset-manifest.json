@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rezahe.github.io/static/css/main.c1ea095c.css",
+    "main.js": "/rezahe.github.io/static/js/main.4e49bf9c.js",
+    "static/js/787.b008a081.chunk.js": "/rezahe.github.io/static/js/787.b008a081.chunk.js",
+    "index.html": "/rezahe.github.io/index.html",
+    "main.c1ea095c.css.map": "/rezahe.github.io/static/css/main.c1ea095c.css.map",
+    "main.4e49bf9c.js.map": "/rezahe.github.io/static/js/main.4e49bf9c.js.map",
+    "787.b008a081.chunk.js.map": "/rezahe.github.io/static/js/787.b008a081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ea095c.css",
+    "static/js/main.4e49bf9c.js"
+  ]
+}
